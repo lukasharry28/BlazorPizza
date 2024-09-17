@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|c:\\users\\asus\\source\\repos\\blazingpizza\\blazingpizza\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|c:\\users\\asus\\source\\repos\\blazingpizza\\blazingpizza\\controller\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\controller\\specialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|c:\\users\\asus\\source\\repos\\blazingpizza\\blazingpizza\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\data\\pizzastorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|c:\\users\\asus\\source\\repos\\blazingpizza\\blazingpizza\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|c:\\users\\asus\\source\\repos\\blazingpizza\\blazingpizza\\blazingpizza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\blazingpizza.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|c:\\users\\asus\\source\\repos\\blazingpizza\\blazingpizza\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\model\\pizzaspecial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|c:\\users\\asus\\source\\repos\\blazingpizza\\blazingpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84116D2B-A546-47A0-8CB5-20D7A319D77E}|BlazingPizza\\BlazingPizza.csproj|solutionrelative:blazingpizza\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Data\\SeedData.cs",
+              "RelativeToolTip": "BlazingPizza\\Data\\SeedData.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwEMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T07:37:51.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SpecialsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Controller\\SpecialsController.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Controller\\SpecialsController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Controller\\SpecialsController.cs",
+              "RelativeToolTip": "BlazingPizza\\Controller\\SpecialsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:53:27.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Data\\PizzaStoreContext.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Data\\PizzaStoreContext.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Data\\PizzaStoreContext.cs",
+              "RelativeToolTip": "BlazingPizza\\Data\\PizzaStoreContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:50:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlazingPizza.csproj",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.csproj",
+              "RelativeDocumentMoniker": "BlazingPizza\\BlazingPizza.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\BlazingPizza.csproj",
+              "RelativeToolTip": "BlazingPizza\\BlazingPizza.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T10:39:08.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PizzaSpecial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Model\\PizzaSpecial.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Model\\PizzaSpecial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Model\\PizzaSpecial.cs",
+              "RelativeToolTip": "BlazingPizza\\Model\\PizzaSpecial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:17:17.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Program.cs",
+              "RelativeDocumentMoniker": "BlazingPizza\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Program.cs",
+              "RelativeToolTip": "BlazingPizza\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T10:11:48.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazingPizza\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlazingPizza\\BlazingPizza\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazingPizza\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T10:20:19.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
